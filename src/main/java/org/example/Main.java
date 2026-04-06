@@ -52,6 +52,7 @@ public class Main {
         /*
         envia el parametro variable pero no retorna nada entonces llama a unMetodo(B b)
         */
+        //tube que dejarlo como comentario porque no me dejaba correr el codigo
         //a.unMetodo((variable) -> {System.out.println("abcd"); return true;});
         /*
         envia un parametro no esplicito 'variable'
